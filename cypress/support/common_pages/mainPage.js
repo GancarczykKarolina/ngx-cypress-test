@@ -1,5 +1,3 @@
-import { Button } from "../"
-
 export class MainPage {
 
     clickOnMainSidebarSection(sectionName) {
